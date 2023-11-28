@@ -16,7 +16,7 @@ tags:
   - Trustworthy AI
   - Explainable AI
 image:
-  filename: featured.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
