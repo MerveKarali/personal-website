@@ -10,6 +10,10 @@ image:
   preview_only: false
 tags:
   - Deep Learning
+  - Computer Vision
+  - Point Clouds
+  - Self-supervised Learning
+  - SimCLR
 ---
 <!--StartFragment-->
 
