@@ -64,7 +64,7 @@ sections:
               * Leveraged cloud services on AWS and GCP to gather data from OLTP systems, ensuring scalability and efficiency.
               * Employed cloud-based optimization techniques on AWS and GCP to improve the efficiency and performance of database queries and processes.
     
-      - title: Senior Data Engineer
+        - title: Senior Data Engineer
           company: Garanti BBVA Technology
           company_url: 'https://www.garantibbvateknoloji.com.tr/'
           company_logo: org-x
