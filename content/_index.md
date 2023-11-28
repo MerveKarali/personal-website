@@ -26,7 +26,7 @@ sections:
         - title: AI Researcher & Data Engineer
           company: Motius GmbH
           company_url: 'https://www.motius.com/'
-          company_logo: org-gc
+          company_logo: motius
           location: Munich
           date_start: '2021-05-17'
           date_end: '2023-09-30'
@@ -42,7 +42,7 @@ sections:
         - title: Data Engineer
           company: Incuda GmbH
           company_url: 'https://www.incuda.net/'
-          company_logo: org-x
+          company_logo: incuda
           location: Munich
           date_start: '2020-10-07'
           date_end: '2021-05-13'
@@ -54,7 +54,7 @@ sections:
         - title: Senior Data Engineer
           company: Vodafone
           company_url: 'https://www.vodafone.com/'
-          company_logo: org-x
+          company_logo: vodafone
           location: Istanbul
           date_start: '2019-06-01'
           date_end: '2020-09-26'
@@ -67,7 +67,7 @@ sections:
         - title: Senior Data Engineer
           company: Garanti BBVA Technology
           company_url: 'https://www.garantibbvateknoloji.com.tr/'
-          company_logo: org-x
+          company_logo: garanti
           location: Munich
           date_start: '2016-07-07'
           date_end: '2019-05-13'
