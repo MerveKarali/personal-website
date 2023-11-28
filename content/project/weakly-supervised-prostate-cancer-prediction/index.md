@@ -5,7 +5,7 @@ summary: >-
   <!--StartFragment-->
 
 
-  **The goal of this project is to predict prostate cancer by implementing the learning pipeline with self-supervised learning and transfer learning.**
+  The goal of this project is to predict prostate cancer by implementing the learning pipeline with self-supervised learning and transfer learning.
 
 
   <!--EndFragment-->
