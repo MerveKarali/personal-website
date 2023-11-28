@@ -38,6 +38,7 @@ sections:
               * Contributed significantly to the 6G SKY research project, focusing on the explainability, interpretability, and robustness of deep learning networks.
               * Spearheaded the replacement/migration of relational databases to cloud infrastructure (AWS, GCP).
               * Executed tasks in DWH, ETL, and Big Data domains.
+    
         - title: Data Engineer
           company: Incuda GmbH
           company_url: 'https://www.incuda.net/'
@@ -49,6 +50,7 @@ sections:
               * Implemented and optimized end-to-end ETL processes, emphasizing extraction, CDC, load, recycle management, dimension management, and key management.
               * Enhanced frameworks for classical DWH architecture, improving efficiency with large datasets.
               * Assisted in documentation, analysis, quality assurance, testing, and operational aspects of ETL processes.
+    
         - title: Senior Data Engineer
           company: Vodafone
           company_url: 'https://www.vodafone.com/'
@@ -61,6 +63,7 @@ sections:
               * Developed productivity tools and automation, reviewed designs and code, and contributed to data preparation for datamining.
               * Leveraged cloud services on AWS and GCP to gather data from OLTP systems, ensuring scalability and efficiency.
               * Employed cloud-based optimization techniques on AWS and GCP to improve the efficiency and performance of database queries and processes.
+    
       - title: Senior Data Engineer
           company: Garanti BBVA Technology
           company_url: 'https://www.garantibbvateknoloji.com.tr/'
@@ -74,6 +77,7 @@ sections:
               * Developed finance applications using RDBMS systems (Oracle Database, IBM DB2) and Java for efficient data manipulation in multichannel communication.
     design:
       columns: '1'
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
