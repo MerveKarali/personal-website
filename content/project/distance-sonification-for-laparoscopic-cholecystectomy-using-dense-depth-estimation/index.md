@@ -16,6 +16,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+tag:
+  - Deep Learning
+  - Medical Imaging
+  - Computer Vision
 ---
 <!--StartFragment-->
 
