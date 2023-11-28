@@ -1,8 +1,7 @@
 ---
 title: Merve Karalı
 role: AI Researcher & Data Engineer
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Passionate about leveraging technology to drive innovation and solve complex challenges, I am a seasoned professional with expertise in both AI research and data engineering. Holding a Master's degree in Informatics from Technical University of Munich, my journey has been marked by hands-on experience in crafting and implementing cutting-edge solutions that bridge the realms of artificial intelligence and data-driven insights.
 interests:
   - Deep Learning
   - Computer Vision
