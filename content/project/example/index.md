@@ -1,34 +1,37 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: Master Thesis on robustness in deep learning and semantic segmentation.
 authors: []
 url_video: ""
 date: 2023-11-24T19:31:07.319Z
 external_link: ""
 url_slides: ""
-title: Robust Techniques to Enhance Label Propagation in Noisy Oversegmented
+title: Master Thesis: Robust Techniques to Enhance Label Propagation in Noisy Oversegmented
   Point clouds and 2D Images
 subtitle: Master Thesis
 tags:
   - Deep Learning
+  - Computer Vision
+  - Semantic Segmentation
+  - Learning with limited supervision
+  - Learning with multi-modal data
+  - Thesis
 links:
-  - icon: twitter
+  - icon: pdf
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: Thesis
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 url_code: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Semantic segmentation of point clouds plays a crucial role in 3D scene understanding, but obtaining large annotated datasets for this task is time-consuming and error-prone. To address this challenge, weakly supervised learning techniques have been explored, focusing mainly on the 3D domain while neglecting the potential of incorporating complementary information from the 2D domain. In this master’s thesis, we adopt an approach that integrates both 2D images and 3D point clouds to enhance weakly supervised point cloud semantic segmentation. By bidirectionally interacting features from these modalities, we leverage the fine-grained texture in 2D images and the geometric information in 3D point clouds to benefit each other. To incorporate additional supervisory signals, we begin by oversegmenting the point clouds and images and assigning unique labels to the resulting supervoxels and superpixels based on our
+proposed initial label assignment strategy. We then propagate these labels to unlabeled points or pixels within the corresponding supervoxel or superpixel. However, the
+oversegmented regions suffer from imprecise object boundaries, leading to inaccuracies in the propagated labels and label noise. To address this issue, we introduce
+a novel noise-robust framework that integrates robust loss functions and innovative loss adjustment strategies. These techniques enhance the learning capacity of the
+network and enable robust learning with limited annotations. Additionally, we incorporate multi-modality and develop a novel point/pixel-wise confidence calculation
+algorithm in the oversegmented point clouds and images to obtain reliable labels based on distance metrics. This approach effectively handles challenges related to ambiguous object boundaries and significantly improves the robustness of the framework even with sparse labels. We conduct extensive experiments under various weakly
+supervised schemes on benchmark datasets, including ScanNetV2 and 2D-3D-S. The results demonstrate that our noise-robust framework outperforms baseline methods
+both quantitatively and qualitatively, showcasing its effectiveness in addressing the limitations of weakly supervised point cloud semantic segmentation.
