@@ -7,11 +7,11 @@ summary: The goal of this project is to perform semantic segmentation with
 draft: false
 featured: false
 tags:
-  - computer vision
-  - deeplearning
-  - unsupervisedlearning
-  - multimodality
-  - semanticsegmentationcontrastivelearning
+  - Deep Learning
+  - Computer Vision
+  - Contrastive Learning
+  - Multi-modality
+  - Semantic Segmentation
 image:
   filename: featured
   focal_point: Smart
