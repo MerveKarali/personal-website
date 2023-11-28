@@ -9,6 +9,8 @@ main:
     weight: 10
   - name: Resume
     url: uploads/resume.pdf
+    icon_pack: fab
+    focal_point: Smart 
     weight: 20
   - name: Projects
     url: '#projects'
