@@ -51,7 +51,7 @@ url_pdf: https://mervekarali.com/publication/conference-paper/conference-paper.p
 publication_types:
   - "7"
 authors:
-  - Fatma Merve Karali
+  - Fatma Merve Karalı
 author_notes: []
 publication: ""
 summary: This master's thesis explores weakly supervised point cloud semantic
