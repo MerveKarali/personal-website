@@ -18,7 +18,7 @@ tags:
   - Computer Vision
   - Image Super Resolution
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
