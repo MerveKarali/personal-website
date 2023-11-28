@@ -4,16 +4,16 @@ date: 2023-11-28T15:52:07.836Z
 summary: 3D Object segmentation with limited supervision
 draft: false
 featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
 tags:
   - Deep Learning
   - Computer Vision
   - Point Clouds
   - Self-supervised Learning
   - SimCLR
+image:
+  filename: featured.png
+  focal_point: Smart
+  preview_only: false
 ---
 <!--StartFragment-->
 
