@@ -47,4 +47,5 @@ I am an AI Researcher & Data Engineer, holding an M.Sc. degree in Computer Scien
 In my professional journey, I've seamlessly navigated the realms of enterprise ML/AI and data engineering. As an AI Researcher, my contributions to projects like FunKI and 6G-SKY include exploring advanced image processing techniques, such as image super-resolution, restoration, and Trustworthy AI, with a particular emphasis on Explainable AI in computer vision. Bridging the research-production gap, I've actively engaged in projects automating ultrasonic testing analysis using CNNs and Transformers.
 
 With eight years of experience as a Data Engineer, I've spearheaded initiatives in Data Warehouse, ETL, and Big Data across diverse sectors, including banking, telecommunication, e-commerce, and healthcare. My skill set encompasses proficiency in Python, SQL, Google Cloud Platform, and AWS.
+
 {style="text-align: justify;"}
