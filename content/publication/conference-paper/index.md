@@ -1,79 +1,98 @@
 ---
-title: 'An example conference paper'
+abstract: >
+  Semantic segmentation of point clouds plays a crucial role in 3D scene
+  understanding,
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+  but obtaining large annotated datasets for this task is time-consuming and error-prone.
+
+  To address this challenge, weakly supervised learning techniques have been explored,
+
+  focusing mainly on the 3D domain while neglecting the potential of incorporating
+
+  complementary information from the 2D domain. In this master’s thesis, we adopt
+
+  an approach that integrates both 2D images and 3D point clouds to enhance weakly
+
+  supervised point cloud semantic segmentation. By bidirectionally interacting features
+
+  from these modalities, we leverage the fine-grained texture in 2D images and the geometric information in 3D point clouds to benefit each other. To incorporate additional
+
+  supervisory signals, we begin by oversegmenting the point clouds and images and
+
+  assigning unique labels to the resulting supervoxels and superpixels based on our
+
+  proposed initial label assignment strategy. We then propagate these labels to unlabeled
+
+  points or pixels within the corresponding supervoxel or superpixel. However, the
+
+  oversegmented regions suffer from imprecise object boundaries, leading to inaccuracies in the propagated labels and label noise. To address this issue, we introduce
+
+  a novel noise-robust framework that integrates robust loss functions and innovative
+
+  loss adjustment strategies. These techniques enhance the learning capacity of the
+
+  network and enable robust learning with limited annotations. Additionally, we incorporate multi-modality and develop a novel point/pixel-wise confidence calculation
+
+  algorithm in the oversegmented point clouds and images to obtain reliable labels based
+
+  on distance metrics. This approach effectively handles challenges related to ambiguous object boundaries and significantly improves the robustness of the framework
+
+  even with sparse labels. We conduct extensive experiments under various weakly
+
+  supervised schemes on benchmark datasets, including ScanNetV2 and 2D-3D-S. The
+
+  results demonstrate that our noise-robust framework outperforms baseline methods
+
+  both quantitatively and qualitatively, showcasing its effectiveness in addressing the
+
+  limitations of weakly supervised point cloud semantic segmentation.
+slides: example
+url_pdf: ""
+publication_types:
+  - "7"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Fatma Merve Karali
+author_notes: []
+publication: ""
+summary: This master's thesis explores weakly supervised point cloud semantic
+  segmentation by integrating information from both 2D images and 3D point
+  clouds. The approach leverages bidirectional feature interaction between
+  modalities, overcoming challenges of sparse annotations by incorporating
+  supervisory signals through oversegmentation. To mitigate label noise, a novel
+  noise-robust framework is introduced, integrating robust loss functions and
+  innovative loss adjustment strategies. The proposed approach, validated on
+  benchmark datasets like ScanNetV2 and 2D-3D-S, demonstrates superior
+  quantitative and qualitative performance, showcasing its efficacy in enhancing
+  weakly supervised point cloud semantic segmentation.
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_project: ""
+publication_short: ""
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://youtube.com
+title: Robust Techniques to Enhance Label Propagation in Noisy Oversegmented
+  Point Clouds and 2D Images
+subtitle: Master Thesis
+doi: ""
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+tags:
+  - Deep Learning
+  - Computer Vision
+  - Master Thesis
+  - Robustness
+  - Multi-modal data
+  - Learning With Limited Supervision
 projects:
   - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
+  preview_only: false
+  filename: featured.png
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
