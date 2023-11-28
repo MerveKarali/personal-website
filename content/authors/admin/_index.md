@@ -42,11 +42,11 @@ first_name: Merve
 email: "mervekarali93@gmail.com"
 ---
 
-I am an AI Researcher & Data Engineer, holding an M.Sc. degree in Computer Science from the Technical University of Munich. My research focuses on the intersection of Deep Learning and Computer Vision. In my master's thesis, I specialized in robust techniques to enhance label propagation under limited supervision, integrating multimodality for semantic segmentation.
+I am an AI Researcher & Data Engineer, holding an M.Sc. degree in Computer Science from the Technical University of Munich. My research delves into the convergence of Deep Learning and Computer Vision, with a specialization in unsupervised and self-supervised learning, multi-modal data learning, and semantic segmentation.
 
-Simultaneously, I've navigated the landscape of enterprise ML/AI and data engineering. As an AI Researcher, I contributed to projects like FunKI and 6G-SKY, exploring deep image processing techniques, image super-resolution, image restoration, and Trustworthy AI, with a focus on Explainable AI for computer vision. Bridging the gap between research and production, I worked on projects automating ultrasonic testing analysis using CNNs and Transformers.
+In my professional journey, I've seamlessly navigated the realms of enterprise ML/AI and data engineering. As an AI Researcher, my contributions to projects like FunKI and 6G-SKY include exploring advanced image processing techniques, such as image super-resolution, restoration, and Trustworthy AI, with a particular emphasis on Explainable AI in computer vision. Bridging the research-production gap, I've actively engaged in projects automating ultrasonic testing analysis using CNNs and Transformers.
 
-With eight years of experience as a Data Engineer, I've led initiatives in Data Warehouse, ETL, and Big Data across diverse domains such as banking, telecommunication, e-commerce, and health. Whether as a consultant or part of a corporation, I've acted as a lead analytics engineer, designing and developing analytical solutions and datasets. My proficiency spans Python, SQL, Google Cloud Platform, and AWS.
+With eight years of experience as a Data Engineer, I've spearheaded initiatives in Data Warehouse, ETL, and Big Data across diverse sectors, including banking, telecommunication, e-commerce, and healthcare. My skill set encompasses proficiency in Python, SQL, Google Cloud Platform, and AWS.
 
 Beyond the tech realm, I find joy in math, computing, engaging conversations, reading, cooking, hitting the gym, and more.
 {style="text-align: justify;"}
