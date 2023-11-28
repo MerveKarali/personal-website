@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 tags:
-  - deeplearning
+  - Deep Learning
 ---
 <!--StartFragment-->
 
