@@ -1,5 +1,5 @@
 ---
-title: Merve Karali
+title: Merve Karalı
 role: AI Researcher & Data Engineer
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
