@@ -15,6 +15,11 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+tags:
+  - Deep Learning
+  - Biomedical AI
+  - Transformers
+  - Gene Expression
 ---
 <!--StartFragment-->
 
