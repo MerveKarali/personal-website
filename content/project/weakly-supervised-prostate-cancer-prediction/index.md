@@ -15,6 +15,13 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+tags:
+  - Deep Learning
+  - Medical Imaging
+  - Computer Vision
+  - Explainable AI
+  - Prostate Cancer
+  - Biomedical AI
 ---
 <!--StartFragment-->
 
