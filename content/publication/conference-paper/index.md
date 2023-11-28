@@ -46,7 +46,7 @@ abstract: >
   both quantitatively and qualitatively, showcasing its effectiveness in addressing the
 
   limitations of weakly supervised point cloud semantic segmentation.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "7"
@@ -81,16 +81,15 @@ tags:
   - Robustness
   - Multi-modal data
   - Learning With Limited Supervision
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.png
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
