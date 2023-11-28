@@ -48,5 +48,5 @@ In my professional journey, I've seamlessly navigated the realms of enterprise M
 
 With eight years of experience as a Data Engineer, I've spearheaded initiatives in Data Warehouse, ETL, and Big Data across diverse sectors, including banking, telecommunication, e-commerce, and healthcare. My skill set encompasses proficiency in Python, SQL, Google Cloud Platform, and AWS.
 
-Beyond the tech realm, I find joy in math, computing, engaging conversations, reading, cooking, hitting the gym, and more.
+Beyond the tech realm, I find joy in engaging in conversations, reading, cooking, hitting the gym, and more.
 {style="text-align: justify;"}
