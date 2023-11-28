@@ -47,7 +47,7 @@ abstract: >
 
   limitations of weakly supervised point cloud semantic segmentation.
 slides: ""
-url_pdf: ""
+url_pdf: "https://mervekarali.com/publication/conference-paper/conference-paper.pdf"
 publication_types:
   - "7"
 authors:
@@ -64,11 +64,11 @@ summary: This master's thesis explores weakly supervised point cloud semantic
   benchmark datasets like ScanNetV2 and 2D-3D-S, demonstrates superior
   quantitative and qualitative performance, showcasing its efficacy in enhancing
   weakly supervised point cloud semantic segmentation.
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: https://github.com/ScanNet/ScanNet
 url_project: ""
 publication_short: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_source: ""
+url_video: ""
 title: Robust Techniques to Enhance Label Propagation in Noisy Oversegmented
   Point Clouds and 2D Images
 subtitle: Master Thesis
@@ -91,7 +91,7 @@ date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: ""
 ---
 
 {{% callout note %}}
