@@ -11,15 +11,15 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
 tags:
   - Deep Learning
   - Biomedical AI
   - Transformers
   - Gene Expression
+image:
+  filename: featured.png
+  focal_point: Smart
+  preview_only: false
 ---
 <!--StartFragment-->
 
