@@ -1,5 +1,5 @@
 ---
-title: 6G Sky
+title: 6G-Sky
 date: 2023-11-28T16:10:22.030Z
 summary: >-
   <!--StartFragment-->
@@ -17,6 +17,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+tag:
+  - Deep Learning
+  - Trustworthy AI
+  - Explainable AI
 ---
 <!--StartFragment-->
 
