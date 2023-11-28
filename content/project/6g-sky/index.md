@@ -17,7 +17,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-tag:
+tags:
   - Deep Learning
   - Trustworthy AI
   - Explainable AI
