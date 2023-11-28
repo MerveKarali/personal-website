@@ -1,5 +1,5 @@
 ---
-title: 6G-SKY2
+title: 6G-SKY
 date: 2023-11-28T17:07:03.487Z
 summary: >-
   <!--StartFragment-->
