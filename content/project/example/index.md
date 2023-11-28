@@ -7,7 +7,7 @@ url_video: ""
 date: 2023-11-24T19:31:07.319Z
 external_link: ""
 url_slides: ""
-title: Master Thesis: Robust Techniques to Enhance Label Propagation in Noisy Oversegmented
+title: Robust Techniques to Enhance Label Propagation in Noisy Oversegmented
   Point clouds and 2D Images
 subtitle: Master Thesis
 tags:
