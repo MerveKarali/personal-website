@@ -23,27 +23,55 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: AI Researcher & Data Engineer
+          company: Motius GmbH
+          company_url: 'https://www.motius.com/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Munich
+          date_start: '2021-05-17'
+          date_end: '2023-09-30'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Collaborated in a dynamic research environment, contributing hands-on expertise in Python.
+              * Engineered advanced deep learning architectures using PyTorch Lightning and TensorFlow.
+              * Worked on the FunKI research project, leveraging deep learning frameworks to explore and optimize 5G network performance.
+              * Implemented anomaly detection techniques for enhanced diagnostics in ultrasound images.
+              * Contributed significantly to the 6G SKY research project, focusing on the explainability, interpretability, and robustness of deep learning networks.
+              * Spearheaded the replacement/migration of relational databases to cloud infrastructure (AWS, GCP).
+              * Executed tasks in DWH, ETL, and Big Data domains.
+        - title: Data Engineer
+          company: Incuda GmbH
+          company_url: 'https://www.incuda.net/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Munich
+          date_start: '2020-10-07'
+          date_end: '2021-05-13'
+          description: |2-
+              * Implemented and optimized end-to-end ETL processes, emphasizing extraction, CDC, load, recycle management, dimension management, and key management.
+              * Enhanced frameworks for classical DWH architecture, improving efficiency with large datasets.
+              * Assisted in documentation, analysis, quality assurance, testing, and operational aspects of ETL processes.
+        - title: Senior Data Engineer
+          company: Vodafone
+          company_url: 'https://www.vodafone.com/'
+          company_logo: org-x
+          location: Istanbul
+          date_start: '2019-06-01'
+          date_end: '2020-09-26'
+          description: |2-
+              * Led the ETL workflow and processes as part of the DWH Reengineering project, designing and developing DevOps CI/CD pipeline and migration flows.
+              * Developed productivity tools and automation, reviewed designs and code, and contributed to data preparation for datamining.
+              * Leveraged cloud services on AWS and GCP to gather data from OLTP systems, ensuring scalability and efficiency.
+              * Employed cloud-based optimization techniques on AWS and GCP to improve the efficiency and performance of database queries and processes.
+      - title: Senior Data Engineer
+          company: Garanti BBVA Technology
+          company_url: 'https://www.garantibbvateknoloji.com.tr/'
+          company_logo: org-x
+          location: Munich
+          date_start: '2016-07-07'
+          date_end: '2019-05-13'
+          description: |2-
+              * Managed ETL architecture, optimizing data processing for operational data.
+              * Improved database performance through property optimization and mapping enhancements on ODI.
+              * Developed finance applications using RDBMS systems (Oracle Database, IBM DB2) and Java for efficient data manipulation in multichannel communication.
     design:
       columns: '1'
   - block: accomplishments
