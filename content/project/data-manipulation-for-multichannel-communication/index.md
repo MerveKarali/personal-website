@@ -13,6 +13,8 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+tags:
+  - Demo
 image:
   filename: featured.png
   focal_point: Smart
