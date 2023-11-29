@@ -11,6 +11,15 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+tags:
+  - Demo
+  - DWH
+  - ETL
+  - CI/CD
+  - GCP
+  - AWS
+  - Python
+  - SQL
 image:
   filename: featured.png
   focal_point: Smart
