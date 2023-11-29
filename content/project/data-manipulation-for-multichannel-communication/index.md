@@ -14,7 +14,7 @@ summary: >-
 draft: false
 featured: false
 tags:
-  - Demo
+  - Data Engineering
 image:
   filename: featured.png
   focal_point: Smart

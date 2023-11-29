@@ -8,8 +8,7 @@ summary: The goal of the Laboratory Diagnostics project was to collaboratively
 draft: false
 featured: false
 tags:
-  - Demo
-  - DataEngineering
+  - Data Engineering
   - ETL
   - ELT
   - Snowflake

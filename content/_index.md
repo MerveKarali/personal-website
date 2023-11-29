@@ -96,8 +96,6 @@ sections:
           tag: Deep Learning
         - name: Data Engineering
           tag: Data Engineering
-        - name: All
-          tag: '*'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

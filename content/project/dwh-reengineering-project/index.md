@@ -12,7 +12,7 @@ summary: >-
 draft: false
 featured: false
 tags:
-  - Demo
+  - Data Engineering
   - DWH
   - ETL
   - CI/CD
