@@ -47,7 +47,7 @@ abstract: >
 
   limitations of weakly supervised point cloud semantic segmentation.
 slides: ""
-url_pdf: https://mervekarali.com/publication/master-thesis/conference-paper.pdf
+url_pdf: https://mervekarali.com/publication/master-thesis/master-thesis.pdf
 publication_types:
   - "7"
 authors:

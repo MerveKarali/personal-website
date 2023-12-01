@@ -94,6 +94,10 @@ sections:
       buttons:
         - name: Deep Learning
           tag: Deep Learning
+        - name: Computer Vision
+          tag: Computer Vision
+        - name: Medical Imaging
+          tag: Medical Imaging
         - name: Data Engineering
           tag: Data Engineering
     design:

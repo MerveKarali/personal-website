@@ -13,6 +13,7 @@ draft: false
 featured: false
 tags:
   - Deep Learning
+  - Computer Vision
   - Trustworthy AI
   - Explainable AI
 image:

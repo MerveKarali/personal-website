@@ -15,7 +15,6 @@ tags:
   - Deep Learning
   - 5G
   - Channel Estimation
-  - Computer Vision
   - Image Super Resolution
 image:
   filename: featured.jpg
